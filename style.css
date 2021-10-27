@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.chat-container {
+    width: 100vw;
+    height: 800px;
+    background-color: blanchedalmond;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+}
+
+#messageBox {
+
+}
+
+.form-div {
+    background-color:cornsilk
+}
